@@ -1,0 +1,26 @@
+{
+	"title" : "Tabel Penempatan",
+
+	"table_header" : [
+		{
+			"table" : [
+				{"title" : "NO", "rowspan" : 2, "colspan" : 1},
+				{"title" : "KABUPATEN/UPT", "rowspan" : 2, "colspan" : 1},
+				{"title" : "KECAMATAN", "rowspan" : 2, "colspan" : 1},
+				{"title" : "NAMA DESA BARU", "rowspan" : 2, "colspan" : 1},
+				{"title" : "TAHUN PENEMPATAN", "rowspan" : 2, "colspan" : 1},
+				{"title" : "TAHUN PENYERAHAN", "rowspan" : 2, "colspan" : 1},
+				{"title" : "DAERAH ASAL ", "rowspan" : 2, "colspan" : 1},
+				{"title" : "JUMLAH SAAT PENEMPATAN ", "rowspan" : 1, "colspan" : 2},
+				{"title" : "JUMLAH SAAT PENYERAHAN ", "rowspan" : 1, "colspan" : 2},
+				{"title" : "KET.", "rowspan" : 2, "colspan" : 1}
+			]
+		}
+
+	
+
+				
+
+
+	
+}
