@@ -1,0 +1,38 @@
+{
+	"title" : "Tabel Inventaris",
+
+	"table_header" : [
+		{
+			"table" : [
+				{"title" : "NO", "rowspan" : 2, "colspan" : 1},
+				{"title" : "KABUPATEN/UPT", "rowspan" : 2, "colspan" : 1},
+				{"title" : "BANGUNAN KESEHATAN", "rowspan" : 1, "colspan" : 3},
+				{"title" : "TENAGA KESEHATAN", "rowspan" : 1, "colspan" : 7},
+				{"title" : "KET.", "rowspan" : 2, "colspan" : 1}
+			]
+		},
+
+		{
+			"table" : [
+				{"title" : "PUSKESMAS", "rowspan" : 1, "colspan" : 1},
+				{"title" : "PUSKESMAS PEMBANTU", "rowspan" : 1, "colspan" : 1},
+				{"title" : "BALAI PENGOBATAN", "rowspan" : 1, "colspan" : 1},
+				{"title" : "DOKTER", "rowspan" : 1, "colspan" : 1},
+				{"title" : "PERAWAT/MANTRI", "rowspan" : 1, "colspan" : 1},
+				{"title" : "PEKERJA KESEHATAN", "rowspan" : 1, "colspan" : 1},
+				{"title" : "BIDAN", "rowspan" : 1, "colspan" : 1},
+				{"title" : "BIDAN", "rowspan" : 1, "colspan" : 1},
+				{"title" : "SANITARIAN", "rowspan" : 1, "colspan" : 1},
+				{"title" : "DUKUN BAYI", "rowspan" : 1, "colspan" : 1},
+				{"title" : "PLKB", "rowspan" : 1, "colspan" : 1}
+			
+			
+			]
+		}
+
+				
+
+	]
+
+	
+}
