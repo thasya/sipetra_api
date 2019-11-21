@@ -1,0 +1,24 @@
+{
+	"title" : "Tabel Inventaris",
+
+	"table_header" : [
+		{
+			"table" : [
+				{"title" : "NO", "rowspan" : 2, "colspan" : 1},
+				{"title" : "KABUPATEN/UPT", "rowspan" : 2, "colspan" : 1},
+				{"title" : "NAMA LOKASI/UPT", "rowspan" : 2, "colspan" : 1},
+				{"title" : "POLA TRANS", "rowspan" : 1, "colspan" : 2},
+				{"title" : "TARGET", "rowspan" : 1, "colspan" : 2},
+				{"title" : "REALISASI PENEMPATAN", "rowspan" : 1, "colspan" : 2},
+				{"title" : "JUMLAH TRANSMIGRAN", "rowspan" : 1, "colspan" : 2},
+				{"title" : "KET.", "rowspan" : 3, "colspan" : 1}
+			]
+		}
+
+	
+
+				
+
+
+	
+}
