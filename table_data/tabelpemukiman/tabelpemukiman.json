@@ -13,23 +13,19 @@
 				{"title" : "JUMLAH TRANSMIGRAN", "rowspan" : 1, "colspan" : 2},
 				{"title" : "KET.", "rowspan" : 3, "colspan" : 1}
 			]
-		}
+		},
+
 		{
 			"table" : [
-			{"title" : "TAHUN PENEMPATAN", "rowspan" : 1, "colspan" : 1},
-			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
-			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
-			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1},
-			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
-			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1}
-		]
-			
+				{"title" : "TAHUN PENEMPATAN", "rowspan" : 1, "colspan" : 1},
+				{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+				{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+				{"title" : "JIWA", "rowspan" : 1, "colspan" : 1},
+				{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+				{"title" : "JIWA", "rowspan" : 1, "colspan" : 1}
+			]
 		}
 
-	
+	]
 
-				
-
-
-	
 }

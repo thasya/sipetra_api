@@ -1,0 +1,24 @@
+{
+	"title" : "Tabel Perabotan/Perlengkapan Sekolah Dasar di UPT",
+
+	"table_header" : [
+		{
+			"table" : [
+				{"title" : "NO", "rowspan" : 1, "colspan" : 1},
+				{"title" : "KABUPATEN/UPT", "rowspan" : 1, "colspan" : 1},
+				{"title" : "JUMLAH SD (Unit)", "rowspan" : 1, "colspan" : 1},
+				{"title" : "JUMLAH SD LOKAL (Unit)", "rowspan" : 1, "colspan" : 1},
+				{"title" : "MEJA (Buah)", "rowspan" : 1, "colspan" : 1},
+				{"title" : "KURSI (Buah)", "rowspan" : 1, "colspan" : 1},
+				{"title" : "LEMARI (Buah)", "rowspan" : 1, "colspan" : 1},
+				{"title" : "ALAT PERAGA (Buah)", "rowspan" : 1, "colspan" : 1},
+				{"title" : "PAPAN TULIS (Unit)", "rowspan" : 1, "colspan" : 1},
+				{"title" : "KET.", "rowspan" : 1, "colspan" : 1},
+				{"title" : "OPSI", "rowspan" : 1, "colspan" : 1}
+			]
+		}	
+
+	]
+
+	
+}
