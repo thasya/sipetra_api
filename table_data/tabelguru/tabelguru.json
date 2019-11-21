@@ -1,0 +1,40 @@
+{
+	"title" : "Tabel Tenaga Guru di UPT",
+
+	"table_header" : [
+		{
+			"table" : [
+				{"title" : "NO", "rowspan" : 3, "colspan" : 1},
+				{"title" : "KABUPATEN/UPT", "rowspan" : 3, "colspan" : 1},
+				{"title" : "JUMLAH GURU", "rowspan" : 1, "colspan" : 9},
+				{"title" : "KET.", "rowspan" : 3, "colspan" : 1},
+				{"title" : "OPSI", "rowspan" : 3, "colspan" : 1}
+			]
+		},
+
+		{
+			"table" : [
+				{"title" : "TK", "rowspan" : 1, "colspan" : 3},
+				{"title" : "SD", "rowspan" : 1, "colspan" : 3},
+				{"title" : "SMP", "rowspan" : 1, "colspan" : 3}
+			]
+		},
+
+		{
+			"table" : [
+				{"title" : "PNS", "rowspan" : 1, "colspan" : 1},
+				{"title" : "HONOR", "rowspan" : 1, "colspan" : 1},
+				{"title" : "JLH", "rowspan" : 1, "colspan" : 1},
+				{"title" : "PNS", "rowspan" : 1, "colspan" : 1},
+				{"title" : "HONOR", "rowspan" : 1, "colspan" : 1},
+				{"title" : "JLH", "rowspan" : 1, "colspan" : 1},
+				{"title" : "PNS", "rowspan" : 1, "colspan" : 1},
+				{"title" : "HONOR", "rowspan" : 1, "colspan" : 1},
+				{"title" : "JLH", "rowspan" : 1, "colspan" : 1}
+			]
+		}		
+
+	]
+
+	
+}

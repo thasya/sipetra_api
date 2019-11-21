@@ -1,0 +1,39 @@
+{
+	"title" : "Tabel Gedung Pendidikan",
+
+	"table_header" : [
+		{
+			"table" : [
+				{"title" : "NO", "rowspan" : 3, "colspan" : 1},
+				{"title" : "KABUPATEN/UPT", "rowspan" : 3, "colspan" : 1},
+				{"title" : "SEKOLAH DASAR", "rowspan" : 1, "colspan" : 5},
+				{"title" : "SEKOLAH MENENGAH PERTAMA", "rowspan" : 1, "colspan" : 3},
+				{"title" : "KET.", "rowspan" : 3, "colspan" : 1},
+				{"title" : "OPSI", "rowspan" : 3, "colspan" : 1}
+			]
+		},
+
+		{
+			"table" : [
+				{"title" : "GEDUNG", "rowspan" : 1, "colspan" : 4},
+				{"title" : "JUMLAH MURID", "rowspan" : 2, "colspan" : 1},
+				{"title" : "GEDUNG", "rowspan" : 1, "colspan" : 2},
+				{"title" : "JUMLAH MURID", "rowspan" : 2, "colspan" : 1}
+			]
+		},
+
+		{
+			"table" : [
+				{"title" : "UNIT 1", "rowspan" : 1, "colspan" : 1},
+				{"title" : "LOKAL 1", "rowspan" : 1, "colspan" : 1},
+				{"title" : "UNIT 2", "rowspan" : 1, "colspan" : 1},
+				{"title" : "LOKAL 2", "rowspan" : 1, "colspan" : 1},
+				{"title" : "UNIT", "rowspan" : 1, "colspan" : 1},
+				{"title" : "LOKAL", "rowspan" : 1, "colspan" : 1}
+			]
+		}		
+
+	]
+
+	
+}
