@@ -16,6 +16,15 @@
 				{"title" : "KET.", "rowspan" : 2, "colspan" : 1}
 			]
 		}
+		{
+			"table" : [
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1},
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1}
+		]
+			
+		}
 
 	
 

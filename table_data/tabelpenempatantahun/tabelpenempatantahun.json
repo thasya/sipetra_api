@@ -1,0 +1,32 @@
+{
+	"title" : "Tabel Inventaris",
+
+	"table_header" : [
+		{
+			"table" : [
+				{"title" : "NO", "rowspan" : 3, "colspan" : 1},
+				{"title" : "KABUPATEN/UPT", "rowspan" : 3, "colspan" : 1},
+				{"title" : "DAERAH ASAL", "rowspan" : 1, "colspan" : 4},
+				{"title" : "JUMLAH TRANSMIGRASI", "rowspan" : 2, "colspan" : 2},
+				{"title" : "KET.", "rowspan" : 3, "colspan" : 1}
+			]
+		},
+
+		{
+			"table" : [
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1},
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1},
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1}
+		]
+			
+		}
+
+				
+
+	]
+
+	
+}

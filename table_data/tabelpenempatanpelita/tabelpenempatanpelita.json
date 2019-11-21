@@ -1,0 +1,59 @@
+{
+	"title" : "Tabel Penempatan Pelita",
+
+	"table_header" : [
+		{
+			"table" : [
+				{"title" : "NO", "rowspan" : 2, "colspan" : 1},
+				{"title" : "KABUPATEN/UPT", "rowspan" : 2, "colspan" : 1},
+				{"title" : "DAERAH ASAL", "rowspan" : 1, "colspan" : 16},
+				{"title" : "JUMLAH TRANSMIGRASI", "rowspan" : 1, "colspan" : 2},
+				{"title" : "KET.", "rowspan" : 3, "colspan" : 1}
+			]
+		},
+
+		{
+			"table" : [
+				{"title" : "DKI", "rowspan" : 1, "colspan" : 2},
+				{"title" : "JABAR", "rowspan" : 1, "colspan" : 2},
+				{"title" : "JATENG", "rowspan" : 1, "colspan" : 2},
+				{"title" : "DIY", "rowspan" : 1, "colspan" : 2},
+				{"title" : "JATIM", "rowspan" : 1, "colspan" : 2},
+				{"title" : "BALI", "rowspan" : 1, "colspan" : 2},
+				{"title" : "NTB", "rowspan" : 1, "colspan" : 2},
+				{"title" : "APPDT/LOKAL", "rowspan" : 1, "colspan" : 2}
+			
+			]
+		}
+		{
+			"table" : [
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1},
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1},
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1},
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1},
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1},
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1},
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1},
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1},
+			{"title" : "KK", "rowspan" : 1, "colspan" : 1},
+			{"title" : "JIWA", "rowspan" : 1, "colspan" : 1}
+		
+
+		]
+			
+		}
+
+				
+
+	]
+
+	
+}
