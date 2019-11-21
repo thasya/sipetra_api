@@ -1,5 +1,5 @@
 {
-	"title" : "Tabel Inventaris",
+	"title" : "Tabel Penempatan Tahun",
 
 	"table_header" : [
 		{
@@ -8,7 +8,8 @@
 				{"title" : "KABUPATEN/UPT", "rowspan" : 3, "colspan" : 1},
 				{"title" : "DAERAH ASAL", "rowspan" : 1, "colspan" : 4},
 				{"title" : "JUMLAH TRANSMIGRASI", "rowspan" : 2, "colspan" : 2},
-				{"title" : "KET.", "rowspan" : 3, "colspan" : 1}
+				{"title" : "KET.", "rowspan" : 3, "colspan" : 1},
+				{"title" : "OPSI", "rowspan" : 3, "colspan" : 1}
 			]
 		},
 
